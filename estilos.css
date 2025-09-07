@@ -1,0 +1,22 @@
+.Coluna{
+    background-color: rgb(161, 154, 154);
+    border:1px solid;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.Linha{
+    border:1px solid;
+    padding: 5px;
+}
+#Paragrafo{
+    background-color: rgb(60, 60, 185);
+    display:inline;
+}
+.Paragrafo{
+    background-color:yellow;
+    display:inline;
+}
+.Contéiner{
+    background-color: rgb(66, 15, 15);
+   display:inline-block;
+}
